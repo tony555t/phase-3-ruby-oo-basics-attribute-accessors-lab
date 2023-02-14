@@ -15,7 +15,7 @@ end
 puss = Cat.new
 
 puss.name=("anisa")
-puss.meaw
+puss.meow
 
 
 binding.pry
